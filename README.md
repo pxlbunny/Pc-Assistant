@@ -53,7 +53,3 @@ To have it launch automatically when Windows starts:
 @echo off
 python "C:\full\path\to\assistant.py"
 ```
-
-## Contributing
-
-You can check [CONTRIBUTING.md](CONTRIBUTING.md) for details!
